@@ -1,5 +1,7 @@
-function basicTeenager(age) if (>13) {
-  "You are a teenager!"}
+function basicTeenager(age) if (age =>13 && age >=19) {
+  "You are a teenager!"}else {
+    "you are not a teenager."
+  }
 
 
 
