@@ -1,4 +1,4 @@
-function basicTeenager(age) if (age is between 13-19) {"You are a teenager!"
+function basicTeenager(age) if (between 13-19) {"You are a teenager!"
 
 }
 
